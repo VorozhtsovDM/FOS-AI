@@ -1,4 +1,4 @@
-<img src="resources/images/ml.jpj" 
+<img src="resources/images/ml.jpg" 
   width="189" height="255" alt="LM">
 # Фонд оценочных средств по дисциплине «МАШИННОЕ ОБУЧЕНИЕ»
 
