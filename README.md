@@ -134,7 +134,10 @@
 
 ## 5. Методические материалы
 
+### Студентам
 - [Рекомендации обучающимся](methodical-guidelines/students.pdf);
+
+### Преподавателю
 - [Рекомендации преподавателям по оцениванию](methodical-guidelines/teachers-assessment.pdf);
 - [Рекомендации преподавателям по использованию ресурсов](methodical-guidelines/teachers-resources.pdf).
 
