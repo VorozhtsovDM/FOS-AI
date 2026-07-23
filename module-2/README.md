@@ -4,3 +4,6 @@
 [Задание для решения задачи классификации](../resources/tasks/task-classification.pdf)\
 [Задание для решения задачи балансировки классов](../resources/tasks/task-class-balancing.pdf)\
 [Задание для решения задачи регрессии](../resources/tasks/task-regression.pdf)
+
+[Аннотация к контрольным вопросам](annotation-test-questions-lab-m2.pdf)\
+[Контрольные вопросы к лабораторным работам модуля 2](../resources/test-banks/test-questions-lab-m2.pdf)
