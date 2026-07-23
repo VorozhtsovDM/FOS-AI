@@ -7,4 +7,5 @@
 [Задание для решения задачи кластеризации](task-clustering.pdf)\
 [Задание для решения задачи классификации](task-classification.pdf)\
 [Задание для решения задачи балансировки классов](task-class-balancing.pdf)\
-[Задание для решения задачи регрессии](task-regression.pdf)
+[Задание для решения задачи регрессии](task-regression.pdf)\
+[Кейсы индустриальных партнёров](task-industrial-partner-cases.md)
