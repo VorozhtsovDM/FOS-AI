@@ -1,4 +1,5 @@
 # Модуль 2 Классическое машинное обучение
+[Аннотация](annotation-m2.pdf)
 
 [Тесты к лекциям](../resources/test-banks/test-questions-lec-m2.pdf)
 
