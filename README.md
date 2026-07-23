@@ -175,4 +175,4 @@
 
 ## 9. Лицензия
 
-Предлагаемая лицензия для открытых образовательных материалов — **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Перед публикацией согласуйте выбор лицензии с правообладателем и заполните файл [LICENSE.md](LICENSE.md).
+Образовательные материалы распространяются под лицензией Creative Commons Attribution 4.0 International (CC BY 4.0).
