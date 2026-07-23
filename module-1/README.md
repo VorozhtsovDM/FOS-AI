@@ -1,4 +1,5 @@
 # Модуль 1 Основы Машинного обучения
+[Тесты к лекциям](../resources/test-banks/test-questions-lec-m1.pdf)
 
 [Задание на снижение размерности данных](../resources/tasks/task-data-dimensionality-reduction.pdf)\
 [Задание для решения задачи балансировки классов](../resources/tasks/task-class-balancing.pdf)\
