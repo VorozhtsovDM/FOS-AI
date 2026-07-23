@@ -1,5 +1,5 @@
 # Модуль 1 Основы Машинного обучения
-[Аннотация](annotation-m1.pdf)\
+[Аннотация](annotation-m1.pdf)
 
 [Тесты к лекциям](../resources/test-banks/test-questions-lec-m1.pdf)
 
