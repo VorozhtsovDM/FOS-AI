@@ -1,3 +1,3 @@
 # Датасеты
 
-[Разведочный анализ категориальных данных](categorical data analysis.md)
+[Разведочный анализ категориальных данных]("categorical data analysis.md")
