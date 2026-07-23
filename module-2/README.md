@@ -3,4 +3,4 @@
 [Задание для решения задачи кластеризации](../resources/tasks/task-clustering.pdf)\
 [Задание для решения задачи классификации](../resources/tasks/task-classification.pdf)\
 [Задание для решения задачи балансировки классов](../resources/tasks/task-class-balancing.pdf)\
-[Задание для решения задачи регрессии]
+[Задание для решения задачи регрессии](../resources/tasks/task-regression.pdf)
