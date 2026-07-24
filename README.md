@@ -173,20 +173,76 @@
 ## 6. Структура репозитория
 
 ```text
-.
-├── README.md
+FOS-AI/
 ├── LICENSE.md
-├── CONTRIBUTING.md
-├── docs/
-├── M1-module-name/
-├── M2-module-name/
 ├── Project/
-├── Exam/
+│   └── README.md
+├── README.md
+├── docs/
+│   ├── README.md
+│   ├── case-study.md
+│   ├── laboratory.md
+│   ├── matrix.md
+│   ├── pasport.md
+│   ├── peer-review.md
+│   ├── quality-checklist.md
+│   ├── roles_scope.md
+│   ├── rpd.md
+│   └── test.md
+├── exam/
+│   └── README.md
 ├── methodical-guidelines/
+│   ├── README.md
+│   ├── students.pdf
+│   ├── teachers-assessment.pdf
+│   └── teachers-resources.pdf
+├── module-1/
+│   ├── README.md
+│   ├── annotation-m1.pdf
+│   └── annotation-test-questions-lab-m1.pdf
+├── module-2/
+│   ├── README.md
+│   ├── annotation-m2.pdf
+│   └── annotation-test-questions-lab-m2.pdf
 ├── resources/
-├── data/
-├── team/
-└── other/
+│   ├── README.md
+│   ├── datasets/
+│   │   ├── README.md
+│   │   ├── categorical-data-analysis.md
+│   │   ├── class-balancing.md
+│   │   ├── classification.md
+│   │   ├── clustering.md
+│   │   ├── data-dimensionality-reduction.md
+│   │   ├── quantitative-data-analysis.md
+│   │   └── regression.md
+│   ├── images/
+│   │   ├── README.md
+│   │   └── ml.jpg
+│   ├── software/
+│   │   └── python-libs/
+│   │       └── README.md
+│   ├── tasks/
+│   │   ├── README.md
+│   │   ├── cases.pdf
+│   │   ├── task-categorical-data-analysis.pdf
+│   │   ├── task-class-balancing.pdf
+│   │   ├── task-classification.pdf
+│   │   ├── task-clustering.pdf
+│   │   ├── task-data-dimensionality-reduction.pdf
+│   │   ├── task-quantitative-data-analysis.pdf
+│   │   └── task-regression.pdf
+│   ├── test-banks/
+│   │   ├── README.md
+│   │   ├── test-questions-lab-m1.pdf
+│   │   ├── test-questions-lab-m2.pdf
+│   │   ├── test-questions-lec-m1.pdf
+│   │   ├── test-questions-lec-m2.pdf
+│   │   └── test-questions.pdf
+│   └── textbooks/
+│       └── README.md
+└── team/
+    └── README.md
+
 ```
 
 Подробное дерево приведено в файле [`repository-tree.txt`](repository-tree.txt).
